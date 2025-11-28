@@ -12,3 +12,28 @@
     <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
 </p>
 <!-- markdownlint-enable MD033 -->
+I love you whoever made this thing cause it's cool but i forgor your name
+LUA IS THE BEST YOU CAN'T CHANGE MY MIND
+also love2d
+
+Function love.load()
+  me = {
+  hp = 10,
+  speed = 100 --pixels per second,
+  x = 100,
+  y = 200,
+  iq = "idk bro",
+  dmg = "idk either",
+  end = "end",
+}
+
+function love.update(dt)
+  if love.keyboard.isDown("w") then
+    me.y = me.y - speed * dt
+  end
+
+  if love.keyboard.isDown("a") then
+    me.x = me.x - speed * dt
+  end
+
+  ok I think you know how to finish this code
