@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h1 align="center">I love this and I love love2d and lua</h3>
+  <h1 align="center">I love this and I love love2d and lua</h1>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 <!-- markdownlint-enable MD033 -->
 <p align="center">
-  <h2 align="center">The coding langs I know>
+  <h2 align="center">The coding langs I know</h2>
 </p>
 
   <!--so this is how you create comments?
