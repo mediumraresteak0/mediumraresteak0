@@ -20,8 +20,10 @@
   Markdown
 
   
-  (idk is md is a coding language)
+  (idk if md is a coding language)
   nothinge else lol
+  [![trophy](https://github-profile-trophy.vercel.app/?username=UKUL3L3s&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  thank you ryo-ma for these trophies
 </p>
-  <!--so this is how you create comments?
-  <!--cool
+  <!--so this is how you create comments?-->
