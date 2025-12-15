@@ -19,11 +19,13 @@
   
   Markdown
 
+
+
+  haha
+
   
-  (idk if md is a coding language)
-  nothinge else lol
-  [![trophy](https://github-profile-trophy.vercel.app/?username=UKUL3L3s&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  thank you ryo-ma for these trophies
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UKUL3L3s&show_icons=true&theme=transparent)
+<img width="1000" height="666" alt="image" src="https://github.com/user-attachments/assets/cab072da-86b6-4ee8-9cc6-5469f686d8df" />
+
 </p>
   <!--so this is how you create comments?-->
