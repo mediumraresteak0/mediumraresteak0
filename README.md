@@ -15,8 +15,11 @@
 <p align="center">
   <h2 align="center">The coding langs I know</h2>
   * Lua
+  
   * MD
+  
   * html
+
 haha
 <img width="1000" height="666" alt="image" src="https://github.com/user-attachments/assets/cab072da-86b6-4ee8-9cc6-5469f686d8df" />
 
