@@ -12,11 +12,13 @@
     <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
 </p>
 <!-- markdownlint-enable MD033 -->
-<h1>yes, im UKUL3L3s</h1>
+<h1>yes, im UKUL3L3s (certified STUPID award winner)</h1>
 
 -  I'm currently working on: **NOTHING**
 
--  I'm currently learning **Lua, HTML, CSS, and JavaScript**
+-  I'm currently learning **Lua, HTML, CSS, and JavaScript + bash and ricing hyprland**
+
+-  Omarchy is prettyt good ngl **thanks dhh**
 
 <h3 align="left">Find me:</h3>
 <p align="left">
