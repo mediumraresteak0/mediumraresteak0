@@ -23,10 +23,9 @@
 <a href="https://github.com/UKUL3L3s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="UKUL3L3s" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and crap:</h3>
-<p align="left"> <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a></p>
-haha
-<img width="1000" height="666" alt="image" src="https://github.com/user-attachments/assets/cab072da-86b6-4ee8-9cc6-5469f686d8df" />
+<h3 align="left">Languages and crap I use or smth:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,arch,github,git,linux,lua,neovim,windows,gmail)](https://skillicons.dev)
 
 </p>
   <!--so this is how you create comments?-->
