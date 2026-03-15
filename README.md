@@ -7,27 +7,18 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Woah+this+is+cool;NOTHING+CAN+BEAT+LUAAAAA;LUA+IS+THE+BEST;I+love+this+thing+lol+&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-<p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
-</p>
 <!-- markdownlint-enable MD033 -->
 <h1>yes, im mediumraresteak0 (certified STUPID award winner)</h1>
 
--  I'm currently working on: **NOTHING**
+<p align="left">Im so sigma! </p>
 
--  I'm currently learning **Lua, HTML, CSS, and JavaScript + bash and ricing hyprland**
-
--  Omarchy is prettyt good ngl **thanks dhh**
+<img align="center" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlvZzJ1dTNsc2s1ZWsyNXhranI1ZW45bGl0aGZ5MnhibnBmbzVncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8rN9VXNb7dfU792YQt/giphy.gif" />
+<img align="center" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlmeTU2eWI2eXg4cXR6bnA0d2UxcWh3OGhsb3VtdHk3NnI1NWNnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pj6kX3c8bRijBrl6yR/giphy.gif" />
+<img align="center" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhhcTNtdXFyMW45OWljdWUwZDV0ejhtdmxpZDNhazlyY2R2amM1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AINeC40MaJRtVw4hZ3/giphy.gif" />
 
 <h3 align="left">Find me:</h3>
 <p align="left">
 <a href="https://github.com/mediumraresteak0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="UKUL3L3s" height="30" width="40" /></a>
-</p>
-
-## stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mediumraresteak0&theme=calm)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mediumraresteak0&theme=calm)
 
 <h3 align="left">Languages and crap I use or smth (mostly Lua):</h3>
 
